@@ -1,2 +1,2 @@
 # gwss
-Game WebSocket Server
+Good WebSocket Server
